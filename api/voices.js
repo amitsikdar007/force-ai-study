@@ -8,9 +8,9 @@ const FALLBACK_VOICES = [
     title: "Abe Padhai Likhai me Dhyan Do, IAS YAS Bno (Munna Bhaiya)"
   },
   {
-    filename: "bade harami ho beta meme video - meme hub (128k).mp3",
-    url: "/voices/bade%20harami%20ho%20beta%20meme%20video%20-%20meme%20hub%20%28128k%29.mp3",
-    title: "Bade harami ho beta"
+    filename: "kitne-tejaswi-log.mp3",
+    url: "/voices/kitne-tejaswi-log.mp3",
+    title: "Kitne tejaswi log hain"
   },
   {
     filename: "Kyu nhi ho rahi padhai.mp3",
@@ -18,9 +18,9 @@ const FALLBACK_VOICES = [
     title: "Kyu nhi ho rahi padhai (Alakh Pandey)"
   },
   {
-    filename: "Tum ek kaam karo IAS ki taiyaari chhod do .mp3",
-    url: "/voices/Tum%20ek%20kaam%20karo%20IAS%20ki%20taiyaari%20chhod%20do%20.mp3",
-    title: "Tum ek kaam karo IAS ki taiyaari chhod do (Vikas Sir)"
+    filename: "padhai karle bhai 128KBPS.mp3",
+    url: "/voices/padhai%20karle%20bhai%20128KBPS.mp3",
+    title: "Padhai karle bhai"
   }
 ];
 

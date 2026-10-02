@@ -240,8 +240,8 @@ force study ai/
 ├── voices/                  # Directory containing mastered meme MP3 audios
 │   ├── Abe Padhai Likhai me Dhyan Do...mp3
 │   ├── Kyu nhi ho rahi padhai.mp3
-│   ├── Tum ek kaam karo IAS ki taiyaari...mp3
-│   └── bade harami ho beta meme video...mp3
+│   ├── kitne-tejaswi-log.mp3
+│   └── padhai karle bhai 128KBPS.mp3
 │
 ├── index.html               # Main application layout, canvas HUD & dashboard drawer
 ├── style.css                # Futuristic glassmorphic styles, ambient vignette animations
